@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deinok.IO.Compression", "Deinok.IO.Compression\Deinok.IO.Compression.csproj", "{72896778-1B44-42E1-90E9-749330F4812F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deinok.IO.Compression.Example", "Deinok.IO.Compression.Example\Deinok.IO.Compression.Example.csproj", "{6A53D3C8-0747-414B-83B4-090E0C445C9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72896778-1B44-42E1-90E9-749330F4812F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72896778-1B44-42E1-90E9-749330F4812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72896778-1B44-42E1-90E9-749330F4812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72896778-1B44-42E1-90E9-749330F4812F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A53D3C8-0747-414B-83B4-090E0C445C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A53D3C8-0747-414B-83B4-090E0C445C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A53D3C8-0747-414B-83B4-090E0C445C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A53D3C8-0747-414B-83B4-090E0C445C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
